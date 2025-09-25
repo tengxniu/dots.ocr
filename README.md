@@ -80,22 +80,7 @@ dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model
 </thead>
 <tbody>
 <tr>
-<td rowspan="6"><strong>Expert<br>VLMs</strong></td>
-<td>GOT-OCR</td>
-<td>0.287</td>
-<td>0.411</td>
-<td>0.189</td>
-<td>0.315</td>
-<td>0.360</td>
-<td>0.528</td>
-<td>53.2</td>
-<td>47.2</td>
-<td>0.459</td>
-<td>0.520</td>
-<td>0.141</td>
-<td>0.280</td>
-</tr>
-<tr>
+<td rowspan="5"><strong>Expert<br>VLMs</strong></td>
 <td>MinerU 2</td>
 <td>0.139</td>
 <td>0.240</td>
@@ -161,8 +146,6 @@ dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model
 <td>0.295</td>
 <td>0.134</td>
 <td>0.231</td>
-<td>0.518</td>
-<td>0.546</td>
 <td>63.2</td>
 <td>52.0</td>
 <td>76.8</td>
