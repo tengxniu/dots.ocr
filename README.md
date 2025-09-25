@@ -92,7 +92,7 @@ dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model
 <td>83.4</td>
 <td>0.15</td>
 <td>0.209</td>
-<td>0.066<</td>
+<td>0.066</td>
 <td>0.122</td>
 </tr>
 <tr>
