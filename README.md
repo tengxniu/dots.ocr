@@ -201,7 +201,7 @@ dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model
 <td>0.091</td>
 </tr>
 <tr>
-<td rowspan="9"><strong>Expert<br>VLMs</strong></td>
+<td rowspan="10"><strong>Expert<br>VLMs</strong></td>
 <td>GOT-OCR</td>
 <td>0.287</td>
 <td>0.411</td>
@@ -335,6 +335,21 @@ dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model
 <td>0.111</td>
 <td>0.100</td>
 <td>0.185</td>
+</tr>
+<tr>
+<td><strong>dots.ocr</td>
+<td><strong>0.125</strong></td>
+<td><strong>0.160</strong></td>
+<td><strong>0.032</strong></td>
+<td><strong>0.066</strong></td>
+<td>0.329</td>
+<td>0.416</td>
+<td><strong>88.6</strong></td>
+<td>89.0</td>
+<td><strong>0.099</strong></td>
+<td>0.092</td>
+<td><strong>0.040</strong></td>
+<td><strong>0.067</strong></td>
 </tr>
 <tr>
 
