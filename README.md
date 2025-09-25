@@ -141,13 +141,13 @@ dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model
 <td><strong>0.067</strong></td>
 </tr>
 <tr>
-<td>Nanonets-OCR-s</td>
+<td>Nanonets-OCR-s</sup></td>
 <td>0.283</td>
 <td>0.295</td>
 <td>0.134</td>
 <td>0.231</td>
-<td>63.2</td>
-<td>52.0</td>
+<td>0.518</td>
+<td>0.546</td>
 <td>76.8</td>
 <td>79.4</td>
 <td>0.343</td>
